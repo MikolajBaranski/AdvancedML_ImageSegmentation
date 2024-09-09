@@ -1,5 +1,5 @@
 class SUNRBDBase:
-    
+
     N_CLASSES = 37
 
     CLASS_NAMES_ENGLISH = ['void', 'wall', 'floor', 'cabinet', 'bed', 'chair',
